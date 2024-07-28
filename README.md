@@ -1,2 +1,2 @@
-# Building a Computer vision model to classify humans and horses
+# Building a Computer vision model for classifying images of humans and horses
 
